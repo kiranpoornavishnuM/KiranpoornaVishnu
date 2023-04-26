@@ -7,8 +7,6 @@ Developer
 React enthusiast and front-end fanatic. Crafting beautiful and functional user interfaces with the MERN stack. Constantly learning, always building.
 
 * 🌍  I'm based in Bengaluru
-* ✉️  You can contact me at [kiranpoornavishnu7@gmail.com](mailto:kiranpoornavishnu7@gmail.com)
-* 🚀  I'm currently working on [Slyspend](http://slyspend.tech/)
 
 ### Skills
 
