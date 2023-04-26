@@ -8,7 +8,6 @@ React enthusiast and front-end fanatic. Crafting beautiful and functional user i
 
 * 🌍  I'm based in Bengaluru
 
-### Skills
 
 
 <p align="left">
